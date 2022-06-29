@@ -1,6 +1,8 @@
-# Welcome to my digital portfolio 
-
-[click here](https://rarestrepoc.github.io/Data_Science.html)
+---
+layout: home
+title: My website
+subtitle: This is where I will tell my friends way too much about me
+---
 
 ## Welcome to GitHub Pages
 
