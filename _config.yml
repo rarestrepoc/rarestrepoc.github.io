@@ -5,6 +5,7 @@ description: Mining and Metallurgy Engineer with Specialization in Data Science
 logo: /img/Me.jpg
 email: rarestrepoc@gmail.com
 color-scheme: dark
+blank_title: true
 
 sidebar:
   - name: CV
