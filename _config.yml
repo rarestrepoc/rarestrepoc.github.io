@@ -6,6 +6,7 @@ logo: /img/Me.jpg
 email: rarestrepoc@gmail.com
 #show_downloads: false
 color-scheme: light
+favicon: true
 #blank_title: true
 
 plugins:
