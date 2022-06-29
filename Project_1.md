@@ -5,7 +5,7 @@ In this project we read in a file of metropolitan regions and associated sports 
 Later we clean, normalize and join the datasets in a main dataset to answer a series of questions from the perspective of the metropolitan region.
 
 
-```python
+```
 '''
 We import the necessary libraries.
 '''
@@ -72,7 +72,7 @@ html = (pd.read_html('datasets/wikipedia_data.html')[1].rename({'Population (201
 Clean html DataFrame
 
 
-```python
+```
 html = (pd.read_html('datasets/wikipedia_data.html')[1].rename({'Population (2016 est.)[8]':'Population'}, axis=1))
 html = html.iloc[:-1,[0,3,5,6,7,8]]
 html['Metropolitan area'] = html['Metropolitan area'].apply(lambda x: corr(x))
