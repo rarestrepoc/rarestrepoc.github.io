@@ -4,9 +4,9 @@ title: Ronald Restrepo
 description: Mining and Metallurgy Engineer with Specialization in Data Science
 logo: /img/Me.jpg
 email: rarestrepoc@gmail.com
-show_downloads: false
+#show_downloads: false
 color-scheme: light
-blank_title: true
+#blank_title: true
 
 plugins:
 - jekyll-remote-theme
@@ -26,7 +26,7 @@ sidebar:
     link: https://web.facebook.com/yosoyronald
 
 
-github: [metadata]
+# github: [metadata]
 
 cdn:
   jsdelivr:
