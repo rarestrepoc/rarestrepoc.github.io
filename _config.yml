@@ -1,11 +1,8 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+
 title: Digital Portfolio
 description: This is my digital portfolio of my data science work
 
 
-navbar-links:
-  About Me: "aboutme"
-  Resources: "Data_Science"
-
-
-avatar: "/_Images/this%20(2).jpg"
+plugins:
+- jekyll-remote-theme
