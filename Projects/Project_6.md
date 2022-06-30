@@ -1,4 +1,4 @@
-# Text Mining 
+# Predictive Model for Text Classification
 
 We have a dataset made up of emails where we want to see if the email is spam (1) or not (0).
 
