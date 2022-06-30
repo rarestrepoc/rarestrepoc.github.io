@@ -19,6 +19,9 @@ I have worked on some data analysis, data visualization and machine learning mod
 
 ### Data Visualization
 - [Code for interactive bar chart](./Projects/Project_2.html)
-- [Animation and widgets visualization](/Projects/Project_3.html)
-- [Data visualization project](/Projects/Project_4.html)
+- [Animation and widgets visualization](./Projects/Project_3.html)
+- [Data visualization project](./Projects/Project_4.html)
+
+### Applied Machine Learning
+- [Choose and train predictive model](./Projects/Project_5.html)
 
