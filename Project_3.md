@@ -107,6 +107,8 @@ anim.save('prueba.gif',
           writer='imagemagick')
 ```
 
+![](./gif_prejct_3.gif)
+
 # Data Visualization: Widgets
 
 In this figure we are going to create 4 bar graphs where each one represents a different distribution: f, Gumbel, Laplace and normal. We will add a slider bar where we can set the number of samples of each distribution and see how they behave.
