@@ -107,7 +107,7 @@ anim.save('prueba.gif',
           writer='imagemagick')
 ```
 
-![](./gif_prejct_3.gif)
+![](./gif_project_3.gif)
 
 # Data Visualization: Widgets
 
