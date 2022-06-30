@@ -17,11 +17,10 @@ I have worked on some data analysis, data visualization and machine learning mod
 ### Data Analysis
 - [Clean and merge data from multiple sources and answer a few questions](./Project_1.html)
 
+### Data Visualization
+- [Code for interactive bar chart](./Project_2.html)
 
 
-You can use the [editor on GitHub](https://github.com/rarestrepoc/rarestrepoc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
