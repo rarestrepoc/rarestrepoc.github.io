@@ -19,6 +19,7 @@ I have worked on some data analysis, data visualization and machine learning mod
 
 ### Data Visualization
 - [Code for interactive bar chart](./Project_2.html)
+- [Animation and widgets visualization](/Project_3.html)
 
 
 
