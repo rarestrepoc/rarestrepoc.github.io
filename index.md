@@ -15,11 +15,11 @@ I have worked on some data analysis, data visualization and machine learning mod
 ## Projects
 
 ### Data Analysis
-- [Clean and merge data from multiple sources and answer a few questions](./Project_1.html)
+- [Clean and merge data from multiple sources and answer a few questions](./Projects/Project_1.html)
 
 ### Data Visualization
-- [Code for interactive bar chart](./Project_2.html)
-- [Animation and widgets visualization](/Project_3.html)
+- [Code for interactive bar chart](./Projects/Project_2.html)
+- [Animation and widgets visualization](/Projects/Project_3.html)
 
 
 
