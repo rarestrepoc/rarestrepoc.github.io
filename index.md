@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Digital Portfolio
-subtitle: This is where I will tell my friends way too much about me
+subtitle: This is the digital portfolio where I show my work in data science
 ---
 
 # About me
@@ -25,4 +25,5 @@ I have worked on some data analysis, data visualization and machine learning mod
 ### Applied Machine Learning
 - [Choose and train predictive model](./Projects/Project_5.html)
 - [Predictive model for text classification](./Projects/Project_6.html)
+- [Document similarity](./Projects/Project_7.html)
 
