@@ -8,9 +8,7 @@ subtitle: This is the digital portfolio where I show my work in data science
 
 My name is Ronald Restrepo, I have a degree in Mining and Metallurgy Engineering from the Faculty of Mines of the National University of Colombia. I studied an Applied Data Science specialization at the University of Michigan.
 
-I plan to focus my working life on data science because it is a subject that I am passionate about; topics such as machine learning, data mining and decision making.
-
-I have worked on some data analysis, data visualization and machine learning model projects using python libraries such as Pandas, NumPy, matplotlib, Sckit-Learn, among others.
+I plan to focus my working life on data science because it is a subject that I am passionate about; topics such as machine learning, data mining and decision making. I have worked on some data analysis, data visualization and machine learning model projects using python libraries such as Pandas, NumPy, matplotlib, Sckit-Learn, among others.
 
 # Projects
 
