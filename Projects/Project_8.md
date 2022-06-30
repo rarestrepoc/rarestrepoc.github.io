@@ -17,6 +17,9 @@ Due to the migration of NetworkX from v1.x to v2.x, where there was an incompati
 The code in NetworkX v1.x to do that:
 
 ```python 
+
+# This code only works with NetworkX v1.x
+
 G = nx.read_gpickle('datasets/email_prediction.txt')
 
 file = open('datasets/myfile.txt', 'w')
@@ -24,7 +27,7 @@ file = open('datasets/myfile.txt', 'w')
 with open('datasets/filename.pickle', 'wb') as handle:
     pickle.dump([G.nodes(data=True), G.edges(data=True)], handle) 
 ```
-
+Now this is our code.
 
 ```python
 import networkx as nx
