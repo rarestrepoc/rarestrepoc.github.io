@@ -24,4 +24,5 @@ I have worked on some data analysis, data visualization and machine learning mod
 
 ### Applied Machine Learning
 - [Choose and train predictive model](./Projects/Project_5.html)
+- [Predictive model for text classification](./Projects/Project_6.html)
 
