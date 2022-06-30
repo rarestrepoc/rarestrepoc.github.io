@@ -28,3 +28,6 @@ I have worked on some data analysis, data visualization and machine learning mod
 - [Document similarity](./Projects/Project_7.html)
 - [Predictive models in networks](./Projects/Project_8.html)
 
+
+*Contact:* [email](rarestrepoc@gmail.com) 
+
